@@ -1,0 +1,32 @@
+# Данные и артефакты
+data/
+*.csv
+*.parquet
+*.pkl
+*.pt
+*.pth
+*.onnx
+*.ckpt
+checkpoints/
+runs/
+mlruns/
+reports/*.png
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+dist/
+build/
+
+# OS / редакторы
+.DS_Store
+.vscode/
+.idea/

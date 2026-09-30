@@ -1,0 +1,50 @@
+# Двойная лицензия
+
+## Текстовое содержимое (весь репозиторий, кроме `projects/templates/`)
+
+Copyright (c) 2026 Ivan Fateev и участники
+
+Произведение распространяется на условиях лицензии
+**Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**.
+
+Вы можете свободно:
+- **делиться** — копировать и распространять материал на любом носителе и в любом формате;
+- **адаптировать** — ремиксовать, изменять и развивать материал в любых целях, включая коммерческие.
+
+При обязательном соблюдении условий:
+- **указание авторства** — вы должны указать автора и источник, дать ссылку на лицензию и обозначить, были ли внесены изменения;
+- **распространение на тех же условиях** — производные произведения должны распространяться под той же лицензией.
+
+Полный текст лицензии: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+
+## Код и шаблоны проектов (`projects/templates/`)
+
+Шаблоны кода (`tasks.py`, шаблоны README, `.gitignore`, `journal.csv` и т. п.)
+распространяются на условиях лицензии **MIT**.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+## Сторонние материалы
+
+Ссылки на внешние курсы, книги и репозитории приводятся в `SOURCES.md`
+исключительно как указатели на источники. У каждого источника своя лицензия;
+соблюдайте её при использовании. Тексты этого роадмапа — авторские, за
+исключением явно процитированных материалов.

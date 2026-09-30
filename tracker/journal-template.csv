@@ -1,0 +1,3 @@
+id,date,hypothesis,change,train_metric,val_metric,time_sec,conclusion
+1,2026-01-01,базовая линия без изменений,baseline,,,0.0,зафиксировали стартовую точку
+2,2026-01-01,аугментации улучшат обобщение,включили flip+rotate,,,0.0,сравнить со строкой 1

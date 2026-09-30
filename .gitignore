@@ -1,0 +1,40 @@
+# Данные и артефакты обучения
+data/
+*.csv
+!tracker/journal-template.csv
+!projects/templates/*.csv
+*.parquet
+*.pkl
+*.pt
+*.pth
+*.onnx
+*.h5
+*.ckpt
+checkpoints/
+runs/
+mlruns/
+wandb/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+dist/
+build/
+
+# OS / редакторы
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Локальные секреты
+*.key
+secrets/
